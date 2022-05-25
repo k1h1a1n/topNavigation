@@ -1,0 +1,1483 @@
+{
+    "responseObject": [
+        {
+            "menuID": 1,
+            "menuName": "Manage Data",
+            "moduleID": 1,
+            "level": 0,
+            "parentMenuID": 0,
+            "sequence": 0,
+            "url": ""
+        },
+        {
+            "menuID": 14,
+            "menuName": "Reports",
+            "moduleID": 1,
+            "level": 0,
+            "parentMenuID": 0,
+            "sequence": 0,
+            "url": ""
+        },
+        {
+            "menuID": 10,
+            "menuName": "Customer Presentations",
+            "moduleID": 1,
+            "level": 0,
+            "parentMenuID": 0,
+            "sequence": 0,
+            "url": ""
+        },
+        {
+            "menuID": 25,
+            "menuName": "Pre-Sales Tools",
+            "moduleID": 1,
+            "level": 0,
+            "parentMenuID": 0,
+            "sequence": 0,
+            "url": ""
+        },
+        {
+            "menuID": 30,
+            "menuName": "Business Analytics",
+            "moduleID": 1,
+            "level": 0,
+            "parentMenuID": 0,
+            "sequence": 0,
+            "url": ""
+        },
+        {
+            "menuID": 48,
+            "menuName": "Renewals & Quotations",
+            "moduleID": 2,
+            "level": 0,
+            "parentMenuID": 0,
+            "sequence": 0,
+            "url": ""
+        },
+        {
+            "menuID": 58,
+            "menuName": "Claims",
+            "moduleID": 2,
+            "level": 0,
+            "parentMenuID": 0,
+            "sequence": 0,
+            "url": ""
+        },
+        {
+            "menuID": 66,
+            "menuName": "Reports",
+            "moduleID": 2,
+            "level": 0,
+            "parentMenuID": 0,
+            "sequence": 0,
+            "url": ""
+        },
+        {
+            "menuID": 80,
+            "menuName": "Business Analytics",
+            "moduleID": 2,
+            "level": 1,
+            "parentMenuID": 0,
+            "sequence": 0,
+            "url": ""
+        },
+        {
+            "menuID": 35,
+            "menuName": "Masters",
+            "moduleID": 2,
+            "level": 0,
+            "parentMenuID": 0,
+            "sequence": 0,
+            "url": ""
+        },
+        {
+            "menuID": 53,
+            "menuName": "Quotations",
+            "moduleID": 2,
+            "level": 2,
+            "parentMenuID": 0,
+            "sequence": 0,
+            "url": ""
+        },
+        {
+            "menuID": 108,
+            "menuName": "Task Management",
+            "moduleID": 3,
+            "level": 0,
+            "parentMenuID": 0,
+            "sequence": 0,
+            "url": ""
+        },
+        {
+            "menuID": 91,
+            "menuName": "Customer Management",
+            "moduleID": 3,
+            "level": 0,
+            "parentMenuID": 0,
+            "sequence": 0,
+            "url": ""
+        },
+        {
+            "menuID": 115,
+            "menuName": "Reports",
+            "moduleID": 3,
+            "level": 0,
+            "parentMenuID": 0,
+            "sequence": 0,
+            "url": ""
+        },
+        {
+            "menuID": 105,
+            "menuName": "Consolidated",
+            "moduleID": 3,
+            "level": 0,
+            "parentMenuID": 0,
+            "sequence": 0,
+            "url": ""
+        },
+        {
+            "menuID": 120,
+            "menuName": "Download",
+            "moduleID": 3,
+            "level": 0,
+            "parentMenuID": 0,
+            "sequence": 0,
+            "url": ""
+        },
+        {
+            "menuID": 122,
+            "menuName": "Business Analytics",
+            "moduleID": 3,
+            "level": 0,
+            "parentMenuID": 0,
+            "sequence": 0,
+            "url": ""
+        },
+        {
+            "menuID": 127,
+            "menuName": "User Management",
+            "moduleID": 4,
+            "level": 0,
+            "parentMenuID": 0,
+            "sequence": 0,
+            "url": ""
+        },
+        {
+            "menuID": 132,
+            "menuName": "Organization",
+            "moduleID": 4,
+            "level": 0,
+            "parentMenuID": 0,
+            "sequence": 0,
+            "url": ""
+        },
+        {
+            "menuID": 136,
+            "menuName": "Settings",
+            "moduleID": 4,
+            "level": 0,
+            "parentMenuID": 0,
+            "sequence": 0,
+            "url": ""
+        },
+        {
+            "menuID": 142,
+            "menuName": "My Account",
+            "moduleID": 4,
+            "level": 0,
+            "parentMenuID": 0,
+            "sequence": 0,
+            "url": ""
+        },
+        {
+            "menuID": 154,
+            "menuName": "Alerts & Notifications",
+            "moduleID": 4,
+            "level": 0,
+            "parentMenuID": 0,
+            "sequence": 0,
+            "url": ""
+        },
+        {
+            "menuID": 159,
+            "menuName": "Miscellaneous",
+            "moduleID": 4,
+            "level": 0,
+            "parentMenuID": 0,
+            "sequence": 0,
+            "url": ""
+        },
+        {
+            "menuID": 151,
+            "menuName": "SMS/Email",
+            "moduleID": 4,
+            "level": 0,
+            "parentMenuID": 0,
+            "sequence": 0,
+            "url": ""
+        },
+        {
+            "menuID": 2,
+            "menuName": "Policy Entry",
+            "moduleID": 1,
+            "level": 2,
+            "parentMenuID": 1,
+            "sequence": 1,
+            "url": "/DataEntry/TableView/DPTableView.aspx?MenuId=203"
+        },
+        {
+            "menuID": 3,
+            "menuName": "Policy Alternation",
+            "moduleID": 1,
+            "level": 2,
+            "parentMenuID": 1,
+            "sequence": 2,
+            "url": "/DataEntry/TableView/DPTableView.aspx?MenuId=204"
+        },
+        {
+            "menuID": 4,
+            "menuName": "FUP Date Batch Update",
+            "moduleID": 1,
+            "level": 2,
+            "parentMenuID": 1,
+            "sequence": 3,
+            "url": "/LifeInsurance/DPFUPDateBatchUpdate.aspx?MenuId=205"
+        },
+        {
+            "menuID": 5,
+            "menuName": "Premium Deposite",
+            "moduleID": 1,
+            "level": 2,
+            "parentMenuID": 1,
+            "sequence": 4,
+            "url": "/DataEntry/TableView/DPTableView.aspx?MenuId=206"
+        },
+        {
+            "menuID": 6,
+            "menuName": "ULIP Unit Adjusment",
+            "moduleID": 1,
+            "level": 2,
+            "parentMenuID": 1,
+            "sequence": 5,
+            "url": "/DataEntry/TableView/DPTableView.aspx?MenuId=210"
+        },
+        {
+            "menuID": 7,
+            "menuName": "Import Data",
+            "moduleID": 1,
+            "level": 1,
+            "parentMenuID": 1,
+            "sequence": 0,
+            "url": ""
+        },
+        {
+            "menuID": 8,
+            "menuName": "Create File Structure",
+            "moduleID": 1,
+            "level": 2,
+            "parentMenuID": 7,
+            "sequence": 1,
+            "url": "/DataEntry/TableView/DPTableView.aspx?MenuId=423"
+        },
+        {
+            "menuID": 9,
+            "menuName": "Import Policies from Excel",
+            "moduleID": 1,
+            "level": 2,
+            "parentMenuID": 7,
+            "sequence": 2,
+            "url": "/DataEntry/Import/Transaction/MIImportTransaction.aspx?MenuId=489"
+        },
+        {
+            "menuID": 11,
+            "menuName": "Premium Calendar",
+            "moduleID": 1,
+            "level": 2,
+            "parentMenuID": 10,
+            "sequence": 1,
+            "url": "/LifeInsurance/Reports/DPPremiumCalenderReport.aspx?MenuId=286"
+        },
+        {
+            "menuID": 12,
+            "menuName": "Cash Flow Chart ",
+            "moduleID": 1,
+            "level": 2,
+            "parentMenuID": 10,
+            "sequence": 2,
+            "url": "/LifeInsurance/Reports/DPCashFlowChart.aspx?MenuId=228"
+        },
+        {
+            "menuID": 13,
+            "menuName": "Comprehensive Insurance Chart",
+            "moduleID": 1,
+            "level": 2,
+            "parentMenuID": 10,
+            "sequence": 3,
+            "url": "/LifeInsurance/Reports/DPComprehensiveInsuranceChart.aspx?MenuId=231"
+        },
+        {
+            "menuID": 15,
+            "menuName": "Follow Up Reports",
+            "moduleID": 1,
+            "level": 1,
+            "parentMenuID": 15,
+            "sequence": 1,
+            "url": ""
+        },
+        {
+            "menuID": 16,
+            "menuName": "Premium Due",
+            "moduleID": 1,
+            "level": 2,
+            "parentMenuID": 15,
+            "sequence": 2,
+            "url": "/LifeInsurance/Reports/DPPremiumsDue.aspx?MenuId=222"
+        },
+        {
+            "menuID": 17,
+            "menuName": "Premiums Outstanding",
+            "moduleID": 1,
+            "level": 3,
+            "parentMenuID": 15,
+            "sequence": 3,
+            "url": "/LifeInsurance/Reports/DPPremiumsOutstanding.aspx?MenuId=223"
+        },
+        {
+            "menuID": 18,
+            "menuName": "Cash Flow Due",
+            "moduleID": 1,
+            "level": 4,
+            "parentMenuID": 15,
+            "sequence": 4,
+            "url": "/LifeInsurance/Reports/DPCashFlowDue.aspx?MenuId=445"
+        },
+        {
+            "menuID": 19,
+            "menuName": "Annuity Due Statement",
+            "moduleID": 1,
+            "level": 5,
+            "parentMenuID": 15,
+            "sequence": 5,
+            "url": "/LifeInsurance/Reports/DPAnnuityStatement.aspx?MenuId=227"
+        },
+        {
+            "menuID": 20,
+            "menuName": "Life Insurance Requests",
+            "moduleID": 1,
+            "level": 6,
+            "parentMenuID": 15,
+            "sequence": 6,
+            "url": "/LifeInsurance/Reports/LicQuote.aspx?MenuId=1236"
+        },
+        {
+            "menuID": 21,
+            "menuName": "Back-office Reports",
+            "moduleID": 1,
+            "level": 1,
+            "parentMenuID": 15,
+            "sequence": 0,
+            "url": ""
+        },
+        {
+            "menuID": 22,
+            "menuName": "Policy Register",
+            "moduleID": 1,
+            "level": 2,
+            "parentMenuID": 21,
+            "sequence": 8,
+            "url": "/LifeInsurance/Reports/DPPolicyRegister.aspx?MenuId=221"
+        },
+        {
+            "menuID": 23,
+            "menuName": "Premium Deposits Register",
+            "moduleID": 1,
+            "level": 2,
+            "parentMenuID": 21,
+            "sequence": 9,
+            "url": "/LifeInsurance/Reports/DPPremiumDepositsRegister.aspx?MenuId=224"
+        },
+        {
+            "menuID": 24,
+            "menuName": "Renewal Calendar",
+            "moduleID": 1,
+            "level": 2,
+            "parentMenuID": 21,
+            "sequence": 10,
+            "url": "/Reports/Office/RenewalCalendar.aspx?MenuId=1240"
+        },
+        {
+            "menuID": 26,
+            "menuName": "Human Life Value Calculator",
+            "moduleID": 1,
+            "level": 2,
+            "parentMenuID": 26,
+            "sequence": 1,
+            "url": "/PreSales/DPQuickHLV.aspx?MenuId=76"
+        },
+        {
+            "menuID": 27,
+            "menuName": "Income Replacement Calculator",
+            "moduleID": 1,
+            "level": 2,
+            "parentMenuID": 26,
+            "sequence": 2,
+            "url": "/PreSales/DPWealthPotential.aspx?MenuId=77"
+        },
+        {
+            "menuID": 28,
+            "menuName": "Retirement needs Calculator",
+            "moduleID": 1,
+            "level": 2,
+            "parentMenuID": 26,
+            "sequence": 3,
+            "url": "/PreSales/DPRetirementNeeds.aspx?MenuId=78"
+        },
+        {
+            "menuID": 29,
+            "menuName": "Child Education Needs Calculator",
+            "moduleID": 1,
+            "level": 2,
+            "parentMenuID": 26,
+            "sequence": 4,
+            "url": "/PreSales/DPChildEducationNeeds.aspx?MenuId=456"
+        },
+        {
+            "menuID": 31,
+            "menuName": "Top Customer List",
+            "moduleID": 1,
+            "level": 2,
+            "parentMenuID": 30,
+            "sequence": 1,
+            "url": "/MIS/DPTopCustomerPremium.aspx?MenuId=251"
+        },
+        {
+            "menuID": 32,
+            "menuName": "Product Wise Business",
+            "moduleID": 1,
+            "level": 2,
+            "parentMenuID": 30,
+            "sequence": 2,
+            "url": "/MIS/DPProductwiseBusinessAnalysis.aspx?MenuId=21"
+        },
+        {
+            "menuID": 33,
+            "menuName": "Premium Per Lac SA",
+            "moduleID": 1,
+            "level": 2,
+            "parentMenuID": 30,
+            "sequence": 3,
+            "url": "/MIS/DPPremiumPerLacSa.aspx?MenuId=22"
+        },
+        {
+            "menuID": 34,
+            "menuName": "Age Wise Business Analysis",
+            "moduleID": 1,
+            "level": 2,
+            "parentMenuID": 30,
+            "sequence": 4,
+            "url": "/MIS/DPAgeWiseBusinessDone.aspx?MenuId=23"
+        },
+        {
+            "menuID": 36,
+            "menuName": "Motor Add-On Master",
+            "moduleID": 2,
+            "level": 2,
+            "parentMenuID": 35,
+            "sequence": 1,
+            "url": "/DataEntry/Tableview/DPTableView.aspx?MenuId=449"
+        },
+        {
+            "menuID": 37,
+            "menuName": "Float Account Master",
+            "moduleID": 2,
+            "level": 2,
+            "parentMenuID": 35,
+            "sequence": 2,
+            "url": "/DataEntry/Tableview/DPTableView.aspx?MenuId=450"
+        },
+        {
+            "menuID": 38,
+            "menuName": "Commission Rates",
+            "moduleID": 2,
+            "level": 2,
+            "parentMenuID": 35,
+            "sequence": 3,
+            "url": "/DataEntry/Tableview/DPTableView.aspx?MenuId=260"
+        },
+        {
+            "menuID": 39,
+            "menuName": "Motor Settings",
+            "moduleID": 2,
+            "level": 2,
+            "parentMenuID": 35,
+            "sequence": 4,
+            "url": "/DataEntry/Tableview/DPTableView.aspx?MenuId=1068"
+        },
+        {
+            "menuID": 40,
+            "menuName": "TPA Contacts",
+            "moduleID": 2,
+            "level": 2,
+            "parentMenuID": 35,
+            "sequence": 5,
+            "url": "/DataEntry/Tableview/DPTableView.aspx?MenuId=1068"
+        },
+        {
+            "menuID": 41,
+            "menuName": "Transactions",
+            "moduleID": 2,
+            "level": 1,
+            "parentMenuID": 35,
+            "sequence": 0,
+            "url": ""
+        },
+        {
+            "menuID": 42,
+            "menuName": "Health Insurance Policies",
+            "moduleID": 2,
+            "level": 2,
+            "parentMenuID": 41,
+            "sequence": 1,
+            "url": "/DataEntry/Tableview/DPTableView.aspx?MenuId=396"
+        },
+        {
+            "menuID": 43,
+            "menuName": "Motor Insurance Policies",
+            "moduleID": 2,
+            "level": 2,
+            "parentMenuID": 41,
+            "sequence": 2,
+            "url": "/DataEntry/Tableview/DPTableView.aspx?MenuId=1048"
+        },
+        {
+            "menuID": 44,
+            "menuName": "Other Insurance Policies",
+            "moduleID": 2,
+            "level": 2,
+            "parentMenuID": 41,
+            "sequence": 3,
+            "url": "/DataEntry/Tableview/DPTableView.aspx?MenuId=1181"
+        },
+        {
+            "menuID": 45,
+            "menuName": "Import Policies from Excel",
+            "moduleID": 2,
+            "level": 2,
+            "parentMenuID": 41,
+            "sequence": 4,
+            "url": "/DataEntry/Import/NLImport/DPUploadNLPolicyData.aspx?MenuId=425&Basic=0"
+        },
+        {
+            "menuID": 46,
+            "menuName": "Float Account Transactions",
+            "moduleID": 2,
+            "level": 2,
+            "parentMenuID": 41,
+            "sequence": 5,
+            "url": "/DataEntry/Tableview/DPTableView.aspx?MenuId=454"
+        },
+        {
+            "menuID": 47,
+            "menuName": "Commission Reconciliation",
+            "moduleID": 2,
+            "level": 2,
+            "parentMenuID": 41,
+            "sequence": 6,
+            "url": "/GeneralInsurance/NLCommissionRecon.aspx?MenuId=491"
+        },
+        {
+            "menuID": 49,
+            "menuName": "Health Insurance",
+            "moduleID": 2,
+            "level": 2,
+            "parentMenuID": 48,
+            "sequence": 1,
+            "url": "/GeneralInsurance/NLHealthRenewal.aspx?MenuId=433"
+        },
+        {
+            "menuID": 50,
+            "menuName": "Motor Insurance ",
+            "moduleID": 2,
+            "level": 2,
+            "parentMenuID": 48,
+            "sequence": 2,
+            "url": "/GeneralInsurance/NLMotorRenewal.aspx?MenuId=1045"
+        },
+        {
+            "menuID": 51,
+            "menuName": "Other Insurance",
+            "moduleID": 2,
+            "level": 2,
+            "parentMenuID": 48,
+            "sequence": 3,
+            "url": "/GeneralInsurance/NLRenewal.aspx?MenuId=1185"
+        },
+        {
+            "menuID": 52,
+            "menuName": "Consolidated Renewal List",
+            "moduleID": 2,
+            "level": 2,
+            "parentMenuID": 48,
+            "sequence": 4,
+            "url": "/GeneralInsurance/NLDueList.aspx?MenuID=1214"
+        },
+        {
+            "menuID": 54,
+            "menuName": "Health Insurance Quotes",
+            "moduleID": 2,
+            "level": 2,
+            "parentMenuID": 53,
+            "sequence": 1,
+            "url": "/DataEntry/Tableview/DPTableView.aspx?MenuId=276"
+        },
+        {
+            "menuID": 55,
+            "menuName": "Motor Insurance Quotes",
+            "moduleID": 2,
+            "level": 2,
+            "parentMenuID": 53,
+            "sequence": 2,
+            "url": "/DataEntry/Tableview/DPTableView.aspx?MenuId=277"
+        },
+        {
+            "menuID": 56,
+            "menuName": "Other Insurance Quotes",
+            "moduleID": 2,
+            "level": 2,
+            "parentMenuID": 53,
+            "sequence": 3,
+            "url": "/DataEntry/Tableview/DPTableView.aspx?MenuId=1014"
+        },
+        {
+            "menuID": 57,
+            "menuName": "Health Comparative Quotes",
+            "moduleID": 2,
+            "level": 2,
+            "parentMenuID": 53,
+            "sequence": 4,
+            "url": "/GeneralInsurance/NLHealthComparison.aspx?MenuId=937"
+        },
+        {
+            "menuID": 59,
+            "menuName": "Claims Browser",
+            "moduleID": 2,
+            "level": 2,
+            "parentMenuID": 58,
+            "sequence": 1,
+            "url": "/GeneralInsurance/ClaimStatusRegister.aspx?MenuId=464"
+        },
+        {
+            "menuID": 60,
+            "menuName": "Claim Intimation",
+            "moduleID": 2,
+            "level": 2,
+            "parentMenuID": 58,
+            "sequence": 2,
+            "url": "/GeneralInsurance/NLClaimIntimation.aspx?MenuId=438"
+        },
+        {
+            "menuID": 61,
+            "menuName": "Claim Covering Letter",
+            "moduleID": 2,
+            "level": 2,
+            "parentMenuID": 58,
+            "sequence": 3,
+            "url": "/DataEntry/Tableview/DPTableView.aspx?MenuId=1209"
+        },
+        {
+            "menuID": 62,
+            "menuName": "TPA List",
+            "moduleID": 2,
+            "level": 2,
+            "parentMenuID": 58,
+            "sequence": 4,
+            "url": "/GeneralInsurance/TPAMaster.aspx?MenuId=1067"
+        },
+        {
+            "menuID": 63,
+            "menuName": "Cashless Authorisation Forms",
+            "moduleID": 2,
+            "level": 2,
+            "parentMenuID": 58,
+            "sequence": 5,
+            "url": "/Downloads/CashlessPreAuthorisation.aspx?MenuId=702"
+        },
+        {
+            "menuID": 64,
+            "menuName": "Claim Forms",
+            "moduleID": 2,
+            "level": 2,
+            "parentMenuID": 58,
+            "sequence": 6,
+            "url": "/Downloads/HealthInsuClaim.aspx?MenuId=701"
+        },
+        {
+            "menuID": 65,
+            "menuName": "Claim Procedure and CheckList",
+            "moduleID": 2,
+            "level": 2,
+            "parentMenuID": 58,
+            "sequence": 7,
+            "url": "/Downloads/ProposalForms.aspx?MenuId=704"
+        },
+        {
+            "menuID": 67,
+            "menuName": "Policy Register",
+            "moduleID": 2,
+            "level": 2,
+            "parentMenuID": 66,
+            "sequence": 1,
+            "url": "/GeneralInsurance/NLPolicyRegister.aspx?MenuId=494"
+        },
+        {
+            "menuID": 68,
+            "menuName": "Policy Fact Sheet",
+            "moduleID": 2,
+            "level": 2,
+            "parentMenuID": 66,
+            "sequence": 2,
+            "url": "/GeneralInsurance/NLFactSheet.aspx?MenuId=234"
+        },
+        {
+            "menuID": 69,
+            "menuName": "Health Insurance Requests",
+            "moduleID": 2,
+            "level": 2,
+            "parentMenuID": 66,
+            "sequence": 3,
+            "url": "/GeneralInsurance/NlHealthQuote.aspx?MenuId=1233"
+        },
+        {
+            "menuID": 70,
+            "menuName": "Policy Not Received List",
+            "moduleID": 2,
+            "level": 2,
+            "parentMenuID": 66,
+            "sequence": 4,
+            "url": "/GeneralInsurance/NLPoliNotReceList.aspx?MenuId=441"
+        },
+        {
+            "menuID": 71,
+            "menuName": "Policy Browser",
+            "moduleID": 2,
+            "level": 2,
+            "parentMenuID": 66,
+            "sequence": 5,
+            "url": "/GeneralInsurance/NLPolicyBrowser.aspx?MenuId=1098"
+        },
+        {
+            "menuID": 72,
+            "menuName": "Commission Reports",
+            "moduleID": 2,
+            "level": 1,
+            "parentMenuID": 66,
+            "sequence": 0,
+            "url": ""
+        },
+        {
+            "menuID": 73,
+            "menuName": "Commission Outstanding",
+            "moduleID": 2,
+            "level": 2,
+            "parentMenuID": 72,
+            "sequence": 1,
+            "url": "/Reports/Client/DPCommiOutstandingReport.aspx?MenuId=1219"
+        },
+        {
+            "menuID": 74,
+            "menuName": "Short/Excess Commission",
+            "moduleID": 2,
+            "level": 2,
+            "parentMenuID": 72,
+            "sequence": 2,
+            "url": "/Reports/Client/DPShortExcessCommission.aspx?MenuId=1220"
+        },
+        {
+            "menuID": 75,
+            "menuName": "Commission Ledger",
+            "moduleID": 2,
+            "level": 2,
+            "parentMenuID": 72,
+            "sequence": 3,
+            "url": "/Reports/Client/DPCommissionLedger.aspx?MenuId=1221"
+        },
+        {
+            "menuID": 76,
+            "menuName": "Miscellaneous",
+            "moduleID": 2,
+            "level": 1,
+            "parentMenuID": 72,
+            "sequence": 0,
+            "url": ""
+        },
+        {
+            "menuID": 77,
+            "menuName": "Endorsement Intimation",
+            "moduleID": 2,
+            "level": 2,
+            "parentMenuID": 76,
+            "sequence": 1,
+            "url": "/GeneralInsurance/NLFreeHealthCheckUp.aspx?MenuId=299"
+        },
+        {
+            "menuID": 78,
+            "menuName": "Float Account Ledger",
+            "moduleID": 2,
+            "level": 2,
+            "parentMenuID": 76,
+            "sequence": 2,
+            "url": "/GeneralInsurance/NLFloatACLedger.aspx?MenuID=956"
+        },
+        {
+            "menuID": 79,
+            "menuName": "Health Insurance Product Browser",
+            "moduleID": 2,
+            "level": 2,
+            "parentMenuID": 76,
+            "sequence": 3,
+            "url": "/GeneralInsurance/NLProductBrowser.aspx?MenuId=1030"
+        },
+        {
+            "menuID": 81,
+            "menuName": "Policies Drill Down",
+            "moduleID": 2,
+            "level": 2,
+            "parentMenuID": 80,
+            "sequence": 1,
+            "url": "/GeneralInsurance/NLDrillDown.aspx?MenuId=961"
+        },
+        {
+            "menuID": 82,
+            "menuName": "Top Customers List",
+            "moduleID": 2,
+            "level": 2,
+            "parentMenuID": 80,
+            "sequence": 2,
+            "url": "/GeneralInsurance/NLTopCustomers.aspx?MIS=TopCust&MenuId=308"
+        },
+        {
+            "menuID": 83,
+            "menuName": "Product Wise Business",
+            "moduleID": 2,
+            "level": 2,
+            "parentMenuID": 80,
+            "sequence": 3,
+            "url": "/GeneralInsurance/NLTopCustomers.aspx?MIS=ProdBisSumry&MenuId=24"
+        },
+        {
+            "menuID": 84,
+            "menuName": "Business Comparison",
+            "moduleID": 2,
+            "level": 2,
+            "parentMenuID": 80,
+            "sequence": 4,
+            "url": "/GeneralInsurance/NLBusinessComparison.aspx?MenuId=26"
+        },
+        {
+            "menuID": 85,
+            "menuName": "New Customers Acquisition",
+            "moduleID": 2,
+            "level": 2,
+            "parentMenuID": 80,
+            "sequence": 5,
+            "url": "/GeneralInsurance/NLTopCustomers.aspx?MIS=NewCutAcq&MenuId=27"
+        },
+        {
+            "menuID": 86,
+            "menuName": "Business Lost",
+            "moduleID": 2,
+            "level": 2,
+            "parentMenuID": 80,
+            "sequence": 6,
+            "url": "/GeneralInsurance/NLDisContPolicy.aspx?MenuId=435"
+        },
+        {
+            "menuID": 87,
+            "menuName": "Health Insurance MIS",
+            "moduleID": 2,
+            "level": 1,
+            "parentMenuID": 80,
+            "sequence": 0,
+            "url": ""
+        },
+        {
+            "menuID": 88,
+            "menuName": "Free Health Checkup Eligibility",
+            "moduleID": 2,
+            "level": 2,
+            "parentMenuID": 87,
+            "sequence": 1,
+            "url": "/GeneralInsurance/NLFreeHealthCheckUp.aspx?MenuId=299"
+        },
+        {
+            "menuID": 89,
+            "menuName": "Family Health Cover Analysis",
+            "moduleID": 2,
+            "level": 2,
+            "parentMenuID": 87,
+            "sequence": 2,
+            "url": "/GeneralInsurance/NLFamilyHealthCover.aspx?MenuId=303"
+        },
+        {
+            "menuID": 90,
+            "menuName": "Pre-existing Disease Cover",
+            "moduleID": 2,
+            "level": 2,
+            "parentMenuID": 87,
+            "sequence": 3,
+            "url": "/GeneralInsurance/NLPrediseaseCover.aspx?MenuId=305"
+        },
+        {
+            "menuID": 92,
+            "menuName": "Customer Groups (Families)",
+            "moduleID": 3,
+            "level": 1,
+            "parentMenuID": 91,
+            "sequence": 1,
+            "url": ""
+        },
+        {
+            "menuID": 93,
+            "menuName": "Customer Groups",
+            "moduleID": 3,
+            "level": 2,
+            "parentMenuID": 91,
+            "sequence": 2,
+            "url": "/DataEntry/Tableview/DPTableView.aspx?MenuId=50"
+        },
+        {
+            "menuID": 94,
+            "menuName": "Split Groups",
+            "moduleID": 3,
+            "level": 2,
+            "parentMenuID": 91,
+            "sequence": 3,
+            "url": "/DataEntry/Customer/DPGroupSplitting.aspx?MenuId=365"
+        },
+        {
+            "menuID": 95,
+            "menuName": "Merge Groups",
+            "moduleID": 3,
+            "level": 2,
+            "parentMenuID": 91,
+            "sequence": 4,
+            "url": "/DataEntry/Customer/DPGroupMerging.aspx?MenuId=29"
+        },
+        {
+            "menuID": 96,
+            "menuName": "Bulk Group Merging",
+            "moduleID": 3,
+            "level": 2,
+            "parentMenuID": 91,
+            "sequence": 5,
+            "url": "/DataEntry/Customer/DPBulkGroupMerging.aspx?MenuId=1019"
+        },
+        {
+            "menuID": 97,
+            "menuName": "Sort Group Members",
+            "moduleID": 3,
+            "level": 2,
+            "parentMenuID": 91,
+            "sequence": 6,
+            "url": "/DataEntry/Customer/DPSortGroupMembersNew.aspx?MenuId=364"
+        },
+        {
+            "menuID": 98,
+            "menuName": "Re-organize Group Codes",
+            "moduleID": 3,
+            "level": 2,
+            "parentMenuID": 91,
+            "sequence": 7,
+            "url": "/DataEntry/Customer/DPReorganizeGroupCode.aspx?MenuId=367"
+        },
+        {
+            "menuID": 99,
+            "menuName": "Customers",
+            "moduleID": 3,
+            "level": 1,
+            "parentMenuID": 91,
+            "sequence": 8,
+            "url": ""
+        },
+        {
+            "menuID": 100,
+            "menuName": "Customers Master",
+            "moduleID": 3,
+            "level": 2,
+            "parentMenuID": 99,
+            "sequence": 1,
+            "url": "/DataEntry/Tableview/DPTableView.aspx?MenuId=49"
+        },
+        {
+            "menuID": 101,
+            "menuName": "Merge Customers",
+            "moduleID": 3,
+            "level": 2,
+            "parentMenuID": 99,
+            "sequence": 2,
+            "url": "/DataEntry/Customer/DPMergeCustomers.aspx?MenuId=407"
+        },
+        {
+            "menuID": 102,
+            "menuName": "Bulk Merge Customers",
+            "moduleID": 3,
+            "level": 2,
+            "parentMenuID": 99,
+            "sequence": 3,
+            "url": "/DataEntry/Customer/DPCustomerBulkMerge.aspx?MenuId=983"
+        },
+        {
+            "menuID": 103,
+            "menuName": "Customer Browser",
+            "moduleID": 3,
+            "level": 2,
+            "parentMenuID": 99,
+            "sequence": 4,
+            "url": "/DataEntry/Customer/DPCustomerBrowserSetting.aspx?MenuId=54"
+        },
+        {
+            "menuID": 104,
+            "menuName": "Import Customers",
+            "moduleID": 3,
+            "level": 2,
+            "parentMenuID": 99,
+            "sequence": 5,
+            "url": "/DataEntry/Import/NLImport/DPUploadCustomerData.aspx?MenuId=964"
+        },
+        {
+            "menuID": 106,
+            "menuName": "CRM Centre",
+            "moduleID": 3,
+            "level": 2,
+            "parentMenuID": 105,
+            "sequence": 1,
+            "url": "/MIS/WealthMagicCRM.aspx?CRMType=1&MenuId=398"
+        },
+        {
+            "menuID": 107,
+            "menuName": "Consolidated Insurance Portfolio",
+            "moduleID": 3,
+            "level": 2,
+            "parentMenuID": 105,
+            "sequence": 2,
+            "url": "/MIS/DPConsolidatedWealthPortfolio.aspx?MenuId=418"
+        },
+        {
+            "menuID": 109,
+            "menuName": "Master",
+            "moduleID": 3,
+            "level": 1,
+            "parentMenuID": 108,
+            "sequence": 1,
+            "url": ""
+        },
+        {
+            "menuID": 110,
+            "menuName": "Task Type Master",
+            "moduleID": 3,
+            "level": 2,
+            "parentMenuID": 108,
+            "sequence": 2,
+            "url": "/DataEntry/Tableview/DPTableView.aspx?MenuId=1238"
+        },
+        {
+            "menuID": 111,
+            "menuName": "Task Status Master",
+            "moduleID": 3,
+            "level": 2,
+            "parentMenuID": 108,
+            "sequence": 3,
+            "url": "/DataEntry/Tableview/DPTableView.aspx?MenuId=1329"
+        },
+        {
+            "menuID": 112,
+            "menuName": "Task FollowUp Master",
+            "moduleID": 3,
+            "level": 2,
+            "parentMenuID": 108,
+            "sequence": 4,
+            "url": "/DataEntry/Tableview/DPTableView.aspx?MenuId=1237"
+        },
+        {
+            "menuID": 113,
+            "menuName": "Reports",
+            "moduleID": 3,
+            "level": 1,
+            "parentMenuID": 108,
+            "sequence": 5,
+            "url": ""
+        },
+        {
+            "menuID": 114,
+            "menuName": "Task FollowUp",
+            "moduleID": 3,
+            "level": 2,
+            "parentMenuID": 113,
+            "sequence": 1,
+            "url": "/taskMaster/taskreport.aspx?MenuId=1331"
+        },
+        {
+            "menuID": 116,
+            "menuName": "Composite Premium Calendar",
+            "moduleID": 3,
+            "level": 2,
+            "parentMenuID": 115,
+            "sequence": 1,
+            "url": "/Reports/Office/CompositePremiumCale.aspx?MenuId=1239"
+        },
+        {
+            "menuID": 117,
+            "menuName": "Mailing Label",
+            "moduleID": 3,
+            "level": 2,
+            "parentMenuID": 115,
+            "sequence": 2,
+            "url": "/Reports/Client/MailingLabel.aspx?MenuId=1013"
+        },
+        {
+            "menuID": 118,
+            "menuName": "Active Customers",
+            "moduleID": 3,
+            "level": 2,
+            "parentMenuID": 115,
+            "sequence": 3,
+            "url": "/ToolsUtilities/MyAccount/ActiveCustomerList.aspx?MenuId=473"
+        },
+        {
+            "menuID": 119,
+            "menuName": "Business Scrorecard",
+            "moduleID": 3,
+            "level": 2,
+            "parentMenuID": 115,
+            "sequence": 4,
+            "url": "/MIS/BusinessScorecard.aspx?MenuId=988"
+        },
+        {
+            "menuID": 121,
+            "menuName": "VMPro Data Upload Utility",
+            "moduleID": 3,
+            "level": 2,
+            "parentMenuID": 120,
+            "sequence": 1,
+            "url": "/PDF/IMdownload/imsetup.exe"
+        },
+        {
+            "menuID": 123,
+            "menuName": "Lead Generator",
+            "moduleID": 3,
+            "level": 2,
+            "parentMenuID": 122,
+            "sequence": 1,
+            "url": "/DataEntry/Tableview/DPTableView.aspx?MenuId=64"
+        },
+        {
+            "menuID": 124,
+            "menuName": "Communication Panel",
+            "moduleID": 3,
+            "level": 2,
+            "parentMenuID": 122,
+            "sequence": 2,
+            "url": "/CommunicationPanel_new.aspx?MenuId=455"
+        },
+        {
+            "menuID": 125,
+            "menuName": "Documents Manager",
+            "moduleID": 3,
+            "level": 2,
+            "parentMenuID": 122,
+            "sequence": 3,
+            "url": "/ToolsUtilities/EDocket/DPDocumentManager.aspx?MenuId=66"
+        },
+        {
+            "menuID": 126,
+            "menuName": "Service Requests",
+            "moduleID": 3,
+            "level": 2,
+            "parentMenuID": 122,
+            "sequence": 4,
+            "url": "/ServiceRequestMF.aspx?MenuId=461"
+        },
+        {
+            "menuID": 128,
+            "menuName": "Role Master",
+            "moduleID": 4,
+            "level": 2,
+            "parentMenuID": 127,
+            "sequence": 1,
+            "url": "/DataEntry/Tableview/DPTableView.aspx?MenuId=352"
+        },
+        {
+            "menuID": 129,
+            "menuName": "Role Privileges",
+            "moduleID": 4,
+            "level": 2,
+            "parentMenuID": 127,
+            "sequence": 2,
+            "url": "/DataEntry/UMS/DPRolePrivilege.aspx?MenuId=353"
+        },
+        {
+            "menuID": 130,
+            "menuName": "User Master",
+            "moduleID": 4,
+            "level": 2,
+            "parentMenuID": 127,
+            "sequence": 3,
+            "url": "/DataEntry/Tableview/DPTableView.aspx?MenuId=354"
+        },
+        {
+            "menuID": 131,
+            "menuName": "Relationship Manager Mapping",
+            "moduleID": 4,
+            "level": 2,
+            "parentMenuID": 127,
+            "sequence": 4,
+            "url": "/DataEntry/UMS/DPCustomerHandlerMapping.aspx?Menuid=1139"
+        },
+        {
+            "menuID": 133,
+            "menuName": "Agency MAster",
+            "moduleID": 4,
+            "level": 2,
+            "parentMenuID": 132,
+            "sequence": 1,
+            "url": "/DataEntry/TableView/DPTableView.aspx?MenuId=201"
+        },
+        {
+            "menuID": 134,
+            "menuName": "Branches",
+            "moduleID": 4,
+            "level": 2,
+            "parentMenuID": 132,
+            "sequence": 2,
+            "url": "/DataEntry/Tableview/DPTableView.aspx?MenuId=340"
+        },
+        {
+            "menuID": 135,
+            "menuName": "Employees",
+            "moduleID": 4,
+            "level": 2,
+            "parentMenuID": 132,
+            "sequence": 3,
+            "url": "/DataEntry/Tableview/DPTableView.aspx?MenuId=1170"
+        },
+        {
+            "menuID": 137,
+            "menuName": "Application Configuration",
+            "moduleID": 4,
+            "level": 2,
+            "parentMenuID": 136,
+            "sequence": 1,
+            "url": "/ToolsUtilities/DPPreferencesAndDefaultSettings.aspx?MenuID=410"
+        },
+        {
+            "menuID": 138,
+            "menuName": "My-Insurance Setup",
+            "moduleID": 4,
+            "level": 2,
+            "parentMenuID": 136,
+            "sequence": 2,
+            "url": "/InvestorLogins/DPCustomerLoginManagement.aspx?MenuId=358"
+        },
+        {
+            "menuID": 139,
+            "menuName": "Customer Login Management",
+            "moduleID": 4,
+            "level": 2,
+            "parentMenuID": 136,
+            "sequence": 3,
+            "url": "/ToolsUtilities/DPGreetingsConfigurations.aspx?MenuID=966"
+        },
+        {
+            "menuID": 140,
+            "menuName": "Greetings Configuration",
+            "moduleID": 4,
+            "level": 2,
+            "parentMenuID": 136,
+            "sequence": 4,
+            "url": "/ToolsUtilities/MyAccount/EditCustProfile.aspx?MenuId=482"
+        },
+        {
+            "menuID": 141,
+            "menuName": "Edit Profile",
+            "moduleID": 4,
+            "level": 2,
+            "parentMenuID": 136,
+            "sequence": 5,
+            "url": "/ToolsUtilities/MyAccount/AgeCalSettings.aspx?MenuId=1247"
+        },
+        {
+            "menuID": 143,
+            "menuName": "Subscription Details",
+            "moduleID": 4,
+            "level": 2,
+            "parentMenuID": 142,
+            "sequence": 1,
+            "url": "/ToolsUtilities/MyAccount/DPSubscriptionDetails.aspx?MenuId=405"
+        },
+        {
+            "menuID": 144,
+            "menuName": "Upgrade Subscription Level",
+            "moduleID": 4,
+            "level": 2,
+            "parentMenuID": 142,
+            "sequence": 2,
+            "url": "/ToolsUtilities/MyAccount/DPManageSubscription.aspx?MenuId=400"
+        },
+        {
+            "menuID": 145,
+            "menuName": "Change Payment Mode",
+            "moduleID": 4,
+            "level": 2,
+            "parentMenuID": 142,
+            "sequence": 3,
+            "url": "/ToolsUtilities/MyAccount/DPManagePayment.aspx?MenuId=401"
+        },
+        {
+            "menuID": 146,
+            "menuName": "Add Optional Modules",
+            "moduleID": 4,
+            "level": 2,
+            "parentMenuID": 142,
+            "sequence": 4,
+            "url": "/ToolsUtilities/MyAccount/DPAddModules.aspx?MenuId=402"
+        },
+        {
+            "menuID": 147,
+            "menuName": "Remove Optional Modules",
+            "moduleID": 4,
+            "level": 2,
+            "parentMenuID": 142,
+            "sequence": 5,
+            "url": "/ToolsUtilities/MyAccount/DPRemoveModules.aspx?MenuId=403"
+        },
+        {
+            "menuID": 148,
+            "menuName": "Renew Subscription",
+            "moduleID": 4,
+            "level": 2,
+            "parentMenuID": 142,
+            "sequence": 6,
+            "url": "/ToolsUtilities/MyAccount/DPRenewSubscription.aspx?MenuId=404"
+        },
+        {
+            "menuID": 149,
+            "menuName": "Cancel Subscription",
+            "moduleID": 4,
+            "level": 2,
+            "parentMenuID": 142,
+            "sequence": 7,
+            "url": ""
+        },
+        {
+            "menuID": 150,
+            "menuName": "Download Invoice",
+            "moduleID": 4,
+            "level": 2,
+            "parentMenuID": 142,
+            "sequence": 8,
+            "url": "/IFAConfMail.aspx?MenuId=1141"
+        },
+        {
+            "menuID": 152,
+            "menuName": "SMS/Email Purchase",
+            "moduleID": 4,
+            "level": 2,
+            "parentMenuID": 151,
+            "sequence": 1,
+            "url": "/ToolsUtilities/MyAccount/EmailSotsPurchase.aspx?MenuId=1140"
+        },
+        {
+            "menuID": 153,
+            "menuName": "SMS/Email Usage Log",
+            "moduleID": 4,
+            "level": 2,
+            "parentMenuID": 151,
+            "sequence": 2,
+            "url": "/ToolsUtilities/DPSOTSUsageData.aspx?MenuId=967"
+        },
+        {
+            "menuID": 155,
+            "menuName": "Intimation Templates",
+            "moduleID": 4,
+            "level": 2,
+            "parentMenuID": 154,
+            "sequence": 1,
+            "url": "/ToolsUtilities/DPIntimationTemplates.aspx?MenuId=426"
+        },
+        {
+            "menuID": 156,
+            "menuName": "Scheduling Services",
+            "moduleID": 4,
+            "level": 2,
+            "parentMenuID": 154,
+            "sequence": 2,
+            "url": "/ToolsUtilities/DPSheduledAutomatedServices.aspx?MenuId=427"
+        },
+        {
+            "menuID": 157,
+            "menuName": "Schedule Service Log",
+            "moduleID": 4,
+            "level": 2,
+            "parentMenuID": 154,
+            "sequence": 3,
+            "url": "/ToolsUtilities/DPScheduleIntimationLog.aspx?MenuId=453"
+        },
+        {
+            "menuID": 158,
+            "menuName": "Scheduled Reports Management",
+            "moduleID": 4,
+            "level": 2,
+            "parentMenuID": 154,
+            "sequence": 4,
+            "url": "/ToolsUtilities/DPScheduledReportManagement.aspx?MenuID=1034"
+        },
+        {
+            "menuID": 160,
+            "menuName": "Area Master",
+            "moduleID": 4,
+            "level": 2,
+            "parentMenuID": 159,
+            "sequence": 1,
+            "url": "/DataEntry/Tableview/DPTableView.aspx?MenuId=55"
+        },
+        {
+            "menuID": 161,
+            "menuName": "Reset to Demo Data",
+            "moduleID": 4,
+            "level": 2,
+            "parentMenuID": 159,
+            "sequence": 2,
+            "url": "/ToolsUtilities/DPResetDatabase.aspx?MenuId=443"
+        },
+        {
+            "menuID": 162,
+            "menuName": "Reset Database",
+            "moduleID": 4,
+            "level": 2,
+            "parentMenuID": 159,
+            "sequence": 3,
+            "url": "/ToolsUtilities/ResetDatabase.aspx?MenuId=484"
+        },
+        {
+            "menuID": 163,
+            "menuName": "Import Log",
+            "moduleID": 4,
+            "level": 2,
+            "parentMenuID": 159,
+            "sequence": 4,
+            "url": "/DataEntry/Miscellaneous/DPImportLog.aspx?MenuId=928"
+        },
+        {
+            "menuID": 164,
+            "menuName": "Version History",
+            "moduleID": 4,
+            "level": 2,
+            "parentMenuID": 159,
+            "sequence": 5,
+            "url": "/DataEntry/Tableview/DPTableView.aspx?MenuId=981"
+        }
+    ],
+    "status": "Success",
+    "responseCode": null,
+    "error": null
+}
