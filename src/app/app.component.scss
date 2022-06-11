@@ -1,9 +1,10 @@
+
 .menuBar {
     ul {
         display: flex;
         justify-content: space-between;
         padding-left: 0;
-        margin-left: 25px;
+        margin-left: 10px;
     }
 
     li:nth-child(1) {
@@ -16,14 +17,14 @@
     li {
         cursor: pointer;
         border-radius: 10px;
-        padding: 5px;
+        padding: 8px;
         height: 80px;
         min-width: 140px;
         list-style: none;
         text-align: center;
     }
 
-    li:nth-child(n+2):nth-child(-n+5):hover {
+    li:nth-child(n+2):nth-child(-n+6):hover {
         background-color: #d7e6fa;
     }
 
@@ -45,64 +46,67 @@
     }
 }
 
-.MenuListCard {
-    z-index: 1;
-    padding-bottom: 15px;
 
-        ul {
-            padding: 0;
-            padding-left: 10px;
-            list-style-type: none;
-            columns: 4;
-            li {
-                a {
-                    display: block;
-                    text-align: left;
-                }
-
-                cursor: pointer;
-                list-style: none;
-                text-align: left;
-            }
-        }
+.menuBarContainer:hover .menuListTabs{
+    display: flex;
 }
-
-.test:hover .menuListTabs{
-    display: block;
+.disableHover:hover .menuListTabs{
+    display: none;
 }
 .menuListTabs{
     background-color: #FAFAFF;
     display: none;
+    justify-content: space-between;
     width: 70%;
     float: left;
-    margin-left: 15%;
+    margin-left: 15.5%;
     margin-top: -8px;
     box-shadow: 0px 0px 2px 0px;
-    border-radius: 0px 0px 05px 10px;
-}
-.level0 {
-    background: #FF6600 !important;
-    color: #ffffff !important;
-    padding-top: 2px !important;
-    padding-bottom: 2px !important;
-    border-radius: 5px;
-    font-size: 14px !important;
-    font-weight: 400 !important;
-    width: 90% !important;
-    padding-left: 8px !important;
+    border-radius: 0px 0px 5px 10px;
+    padding-bottom: 15px;
 }
 
 .level1 {
-    font-size: 13px !important;
-    font-family: 'Poppins', sans-serif !important;
-    font-weight: 600 !important;
-    color: #0D77B8 !important;
-    padding-left: 5px;
+    font-weight: 500;
+    color: #0D77B8;
+    font-size: 14px;
+    padding: 4px;
+    margin-left: 2px;
+}
+
+
+.level0 {
+    background: #FF6600;
+    color: #ffffff;
+    border-radius: 5px;
+    padding: 1px;
+    font-size: 14px;
+    font-weight: 400;
+    width: 95%;
+    margin-top: 2px;
+    a{
+        margin-left: 5px;
+    }
 }
 
 .level2 {
-    width: 215px;
-    height: auto;
-    font-size: 12px;
-    font-weight: 400;
+    font-size: 14px;
+    margin-top: 2px;
+    cursor: pointer;
+    a{
+        font-family: 'Poppins', sans-serif !important;
+        margin-left: 8px;
+        padding: 3px;
+        display: block;
+    }
+    a:hover{
+    cursor: pointer;
+    border :dotted 1px #005387 !important;
+    }
+}
+
+.Menucolumn {
+    width: 25%;
+    margin-top: 10px;
+    margin-left: 1%;
 }

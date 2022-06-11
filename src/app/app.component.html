@@ -1,32 +1,38 @@
-<div class="test">
+<div class="menuBarContainer" [ngClass]="{'disableHover' : removeHover == ''}">
     <div class="menuBar">
-      <ul>
-        <li *ngFor="let list of menuTabs let i = index" (mouseover)="loadMenus(i)">
-            <a>
-                <img src="{{list.imgurl}}"><br *ngIf="list.name">{{list.name}}
-            </a>
-        </li>
-    </ul>
-    <hr>
+        <ul>
+            <li *ngFor="let list of menuTabs let i = index" (mouseover)="loadMenus(i , list)">
+                <a>
+                    <img src="{{list.imgurl}}"><br *ngIf="list.name">{{list.name}}
+                </a>
+            </li>
+        </ul>
+        <hr>
     </div>
     <div class="menuListTabs">
-        <ng-container *ngTemplateOutlet="menuListTabs"></ng-container>
+        <ng-container *ngTemplateOutlet="menuListTable"></ng-container>
     </div>
 </div>
 
-<ng-template #menuListTabs>
-      <div class="MenuListCard">
-          <div>
-              <ul>
-                  <li *ngFor="let menuList of filteredData" [ngClass]="{'level0' : menuList.level == 0 , 'level1' : menuList.level == 1}">
-                      <a *ngIf="menuList.level == 0 || menuList.level == 1">{{menuList.menuName}}</a>
-                      <ul>
-                          <li>
-                              <a *ngIf="menuList.level == 2" [ngClass]="{'level2' : menuList.level == 2}">{{menuList.menuName}}</a>
-                          </li>
-                      </ul>
-                  </li>
-              </ul>
-          </div>
-      </div>
+<ng-template #menuListTable>
+    <div class="Menucolumn">
+        <div *ngFor="let menuList of column1" [ngClass]="{'level0' : menuList.level == 0 , 'level1' : menuList.level == 1 , 'level2' : menuList.level == 2}">
+            <a>{{menuList.menuName}}</a>
+        </div>
+    </div>
+    <div class="Menucolumn">
+        <div *ngFor="let menuList of column2" [ngClass]="{'level0' : menuList.level == 0 , 'level1' : menuList.level == 1 , 'level2' : menuList.level == 2}">
+            <a>{{menuList.menuName}}</a>
+        </div>
+    </div>
+    <div class="Menucolumn">
+        <div *ngFor="let menuList of column3" [ngClass]="{'level0' : menuList.level == 0 , 'level1' : menuList.level == 1 , 'level2' : menuList.level == 2}">
+            <a>{{menuList.menuName}}</a>
+        </div>
+    </div>
+    <div class="Menucolumn">
+        <div *ngFor="let menuList of column4" [ngClass]="{'level0' : menuList.level == 0 , 'level1' : menuList.level == 1 , 'level2' : menuList.level == 2}">
+            <a>{{menuList.menuName}}</a>
+        </div>
+    </div>
 </ng-template>
